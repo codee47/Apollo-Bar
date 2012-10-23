@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apollo Bar 1.0\n"
+"POT-Creation-Date: 2012-10-15 22:37+0100\n"
+"PO-Revision-Date: 2012-10-15 22:39+0100\n"
+"Last-Translator: CodeArt <info@code-art.hu>\n"
+"Language-Team: CodeArt <support@code-art.hu>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\.\n"
+
+#: ..\./apollo-bar.php:56
+msgid "Announcements"
+msgstr "Üzenetek"
+
+#: ..\./apollo-bar.php:57 ..\./apollo-bar.php:72
+msgid "Announcement"
+msgstr "Üzenet"
+
+#: ..\./apollo-bar.php:58
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: ..\./apollo-bar.php:59
+msgid "Add New Announcement"
+msgstr "Új bejegyzés hozzáadása"
+
+#: ..\./apollo-bar.php:60
+msgid "All items"
+msgstr "Összes bejegyzés"
+
+#: ..\./apollo-bar.php:61
+msgid "Edit Announcement"
+msgstr "Bejegyzés szerkesztése"
+
+#: ..\./apollo-bar.php:62
+msgid "New Announcement"
+msgstr "Új bejegyzés"
+
+#: ..\./apollo-bar.php:63
+msgid "View Announcement"
+msgstr "Bejegyzés megtekintése"
+
+#: ..\./apollo-bar.php:64
+msgid "Search Announcements"
+msgstr "Bejegyzés keresése"
+
+#: ..\./apollo-bar.php:65
+msgid "No Announcements found"
+msgstr "Nem található bejegyzés"
+
+#: ..\./apollo-bar.php:66
+msgid "No Announcements found in Trash"
+msgstr "Nem található bejegyzés a lomtárban"
+
+#: ..\./apollo-bar.php:68
+msgid "Apollo Bar"
+msgstr "Apollo Bar"
+
+#: ..\./apollo-bar.php:111
+msgid "Scheduling"
+msgstr "Megjelenítés"
+
+#: ..\./apollo-bar.php:123
+msgid "Start date"
+msgstr "Megjelenítés kezdete"
+
+#: ..\./apollo-bar.php:127
+msgid "End date"
+msgstr "Megjelenítés vége"
+
+#: ..\./apollo-bar.php:238
+msgid "x"
+msgstr "x"
+
+#: ..\./includes/apollo-bar-options.php:10
+msgid "Apollo Bar Options"
+msgstr "Apollo Bar beállítások"
+
+#: ..\./includes/apollo-bar-options.php:16
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: ..\./includes/apollo-bar-options.php:20
+msgid "Enable Apollo Bar?"
+msgstr "Megjelenít?"
+
+#: ..\./includes/apollo-bar-options.php:28
+msgid "Enable Apollo Bar Logo?"
+msgstr "Logó megjelenítése?"
+
+#: ..\./includes/apollo-bar-options.php:36
+msgid "Color Settings"
+msgstr "Színséma"
+
+#: ..\./includes/apollo-bar-options.php:40
+msgid "Chose a color skin"
+msgstr "Válassz színt"
+
+#: ..\./includes/apollo-bar-options.php:57
+msgid "Save"
+msgstr "Mentés"
+
+#, fuzzy
+#~ msgid "Apollo Bar Title"
+#~ msgstr "Apollo Bar"
