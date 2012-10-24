@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Apollo Bar 1.0\n"
-"POT-Creation-Date: 2012-10-15 22:37+0100\n"
-"PO-Revision-Date: 2012-10-15 22:37+0100\n"
+"POT-Creation-Date: 2012-10-24 11:51+0100\n"
+"PO-Revision-Date: 2012-10-24 11:51+0100\n"
 "Last-Translator: CodeArt <info@code-art.hu>\n"
 "Language-Team: CodeArt <support@code-art.hu>\n"
 "Language: en_US\n"
@@ -76,6 +76,10 @@ msgid "End date"
 msgstr ""
 
 #: ..\./apollo-bar.php:238
+msgid "Download Apollo Bar"
+msgstr ""
+
+#: ..\./apollo-bar.php:241
 msgid "x"
 msgstr ""
 
@@ -83,26 +87,72 @@ msgstr ""
 msgid "Apollo Bar Options"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:16
+#: ..\./includes/apollo-bar-options.php:11
+msgid ""
+"The Apollo Bar is a simple notification plugin. This is a settings page. "
+"Setup the plugin color and other options. To add a notification text, go to "
+"Apollo Bar (custom post type) menu and create a new post, setup the "
+"Scheduling options and publish."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:18
 msgid "General Settings"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:20
+#: ..\./includes/apollo-bar-options.php:22
 msgid "Enable Apollo Bar?"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:28
+#: ..\./includes/apollo-bar-options.php:30
 msgid "Enable Apollo Bar Logo?"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:36
+#: ..\./includes/apollo-bar-options.php:38
 msgid "Color Settings"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:40
+#: ..\./includes/apollo-bar-options.php:42
 msgid "Chose a color skin"
 msgstr ""
 
-#: ..\./includes/apollo-bar-options.php:57
+#: ..\./includes/apollo-bar-options.php:59
 msgid "Save"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:65
+msgid "Donate"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:66
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin. Thanks! Donors enter their own contribution amount."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:73
+msgid "Or"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:75
+msgid "Vote for the plugin on Wordpress.org."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:76
+msgid "Please refer to the side of plugin on your blog."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:80
+msgid "CodeArt"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:82
+msgid "Fallow us on Twitter"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:83
+msgid "Fallow us on Google+"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:84
+msgid "Newsletter Subscribe"
 msgstr ""
