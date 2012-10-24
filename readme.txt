@@ -27,7 +27,10 @@ The Apollo Bar is a really simple announcements and notification plugin. Used wi
 
 == Screenshots ==
 
-
+1. Add announcements
+2. Edit announcement
+3. Apollo Bar options page
+4. Color variations
 
 == Changelog ==
 
